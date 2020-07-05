@@ -4,11 +4,14 @@ import "./App.css";
 
 const App = () => {
   return (
-    <div className="App">
-      <ul>
-        <li>css</li>
-        <li>html</li>
-      </ul>
+    <div>
+      <div><Header /></div>
+      <div className="App">
+        <ul>
+          <li>css</li>
+          <li>html</li>
+        </ul>
+      </div>
     </div>
   );
 };
@@ -16,9 +19,9 @@ const App = () => {
 const Header = () => {
   return (
     <div>
-      <a>Home</a>
-      <a>News Feed</a>
-      <a>Messages</a>
+      <a href="#">Home</a>
+      <a href="#">News Feed</a>
+      <a href="#">Messages</a>
     </div>
   );
 };
