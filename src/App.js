@@ -7,7 +7,18 @@ const App = () => {
     <div className="App">
       <ul>
         <li>css</li>
+        <li>html</li>
       </ul>
+    </div>
+  );
+};
+
+const Header = () => {
+  return (
+    <div>
+      <a>Home</a>
+      <a>News Feed</a>
+      <a>Messages</a>
     </div>
   );
 };
