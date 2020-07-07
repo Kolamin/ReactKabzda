@@ -1,13 +1,13 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Header from "./Header.js";
 import Technologies from "./Technologies.js";
+import Header from "./Header";
 
 const App = () => {
     return (
         <div>
-            <Header/>
+           <Header />
             <Technologies/>
         </div>
     );
