@@ -33,12 +33,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="Import component">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/kotel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Profile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -71,6 +74,7 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Technologies.js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
@@ -88,7 +92,8 @@
       <workItem from="1594117422875" duration="751000" />
       <workItem from="1594118296760" duration="456000" />
       <workItem from="1594121259145" duration="2203000" />
-      <workItem from="1594260028874" duration="2259000" />
+      <workItem from="1594260028874" duration="3838000" />
+      <workItem from="1594277307023" duration="5358000" />
     </task>
     <task id="LOCAL-00001" summary="Import component">
       <created>1594118126630</created>
@@ -125,6 +130,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1198" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1594124842840" />
+    <state x="1053" y="100" width="774" height="847" key="DiffContextDialog" timestamp="1594268584281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="100" width="774" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594268584281" />
     <state x="1201" y="275" key="FileChooserDialogImpl" timestamp="1594124807274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -153,5 +162,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594118138598" />
+    <state x="1053" y="100" width="774" height="847" maximized="true" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594264526003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="100" width="774" height="847" maximized="true" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594264526003" />
+    <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594263784972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594263784972" />
   </component>
 </project>
