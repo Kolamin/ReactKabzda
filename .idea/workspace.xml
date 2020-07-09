@@ -32,7 +32,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="Import component" />
+    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="Import component">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/kotel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,12 +67,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Technologies.js" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="Template Data Languages" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,6 +88,7 @@
       <workItem from="1594117422875" duration="751000" />
       <workItem from="1594118296760" duration="456000" />
       <workItem from="1594121259145" duration="2203000" />
+      <workItem from="1594260028874" duration="2259000" />
     </task>
     <task id="LOCAL-00001" summary="Import component">
       <created>1594118126630</created>
@@ -136,10 +145,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="936" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594118176367" />
-    <state x="922" y="165" key="SettingsEditor" timestamp="1594124821663">
+    <state x="922" y="165" key="SettingsEditor" timestamp="1594260918694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594124821663" />
+    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594260918694" />
     <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594118138598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
