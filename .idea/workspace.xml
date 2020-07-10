@@ -33,18 +33,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="Import component">
-      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPost.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Navbar/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Navbar/Navbar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/Profile.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPost.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Profile/MyPosts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +96,7 @@
       <workItem from="1594121259145" duration="2203000" />
       <workItem from="1594260028874" duration="3838000" />
       <workItem from="1594277307023" duration="6528000" />
-      <workItem from="1594354437141" duration="6037000" />
+      <workItem from="1594354437141" duration="8697000" />
     </task>
     <task id="LOCAL-00001" summary="Import component">
       <created>1594118126630</created>
