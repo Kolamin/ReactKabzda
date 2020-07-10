@@ -33,14 +33,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="Import component">
-      <change afterPath="$PROJECT_DIR$/src/component/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPost.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Navbar/Navbar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/Profile.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +83,13 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebExamples\ReactKabzda\src\component\Profile" />
+      <recent name="D:\WebExamples\ReactKabzda\src\component\Navbar" />
+      <recent name="D:\WebExamples\ReactKabzda\src\component\Header" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -93,7 +104,8 @@
       <workItem from="1594118296760" duration="456000" />
       <workItem from="1594121259145" duration="2203000" />
       <workItem from="1594260028874" duration="3838000" />
-      <workItem from="1594277307023" duration="5358000" />
+      <workItem from="1594277307023" duration="6528000" />
+      <workItem from="1594354437141" duration="6037000" />
     </task>
     <task id="LOCAL-00001" summary="Import component">
       <created>1594118126630</created>
@@ -166,9 +178,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1053" y="100" width="774" height="847" maximized="true" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594264526003" />
-    <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594263784972">
+    <state x="1053" y="100" width="774" height="847" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594285465729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1053" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594263784972" />
+    <state x="1053" y="100" width="774" height="847" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594285465729" />
+    <state x="1198" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1594360435909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1198" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594360435909" />
   </component>
 </project>
