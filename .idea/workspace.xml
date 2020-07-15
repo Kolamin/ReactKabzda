@@ -32,9 +32,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="Import component">
+    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="lesson 20.1 go fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/kotel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/kotel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Navbar/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -107,6 +109,8 @@
       <workItem from="1594277307023" duration="6528000" />
       <workItem from="1594354437141" duration="8697000" />
       <workItem from="1594779991444" duration="2430000" />
+      <workItem from="1594785807217" duration="294000" />
+      <workItem from="1594786153338" duration="2606000" />
     </task>
     <task id="LOCAL-00001" summary="Import component">
       <created>1594118126630</created>
@@ -115,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594118126630</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson 20.1 go fixed">
+      <created>1594785539395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594785539395</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +147,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Import component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Import component" />
+    <MESSAGE value="lesson 20.1 go fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 20.1 go fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594625250582">
@@ -151,30 +163,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1053" y="100" width="774" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594268584281" />
-    <state x="1201" y="275" key="FileChooserDialogImpl" timestamp="1594124807274">
+    <state x="1201" y="275" key="FileChooserDialogImpl" timestamp="1594786203484">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594124807274" />
-    <state width="1899" height="185" key="GridCell.Tab.0.bottom" timestamp="1594785325409">
+    <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594786203484" />
+    <state width="936" height="185" key="GridCell.Tab.0.bottom" timestamp="1594785546832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594785325409" />
-    <state width="1899" height="185" key="GridCell.Tab.0.center" timestamp="1594785325409">
+    <state width="936" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594785546832" />
+    <state width="936" height="185" key="GridCell.Tab.0.center" timestamp="1594785546832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594785325409" />
-    <state width="1899" height="185" key="GridCell.Tab.0.left" timestamp="1594785325408">
+    <state width="936" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594785546832" />
+    <state width="936" height="185" key="GridCell.Tab.0.left" timestamp="1594785546832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594785325408" />
-    <state width="1899" height="185" key="GridCell.Tab.0.right" timestamp="1594785325409">
+    <state width="936" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594785546832" />
+    <state width="936" height="185" key="GridCell.Tab.0.right" timestamp="1594785546832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594785325409" />
-    <state x="922" y="165" key="SettingsEditor" timestamp="1594260918694">
+    <state width="936" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594785546832" />
+    <state x="922" y="165" key="SettingsEditor" timestamp="1594786326310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594260918694" />
+    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594786326310" />
     <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594118138598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -191,9 +203,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="749" y="233" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594625461540" />
-    <state x="1198" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1594780851229">
+    <state x="1198" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1594786417383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1198" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594780851229" />
+    <state x="1198" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594786417383" />
   </component>
 </project>
