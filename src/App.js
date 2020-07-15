@@ -1,15 +1,26 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
+import Header from "./component/Header/Header";
+import Navbar from "./component/Navbar/Navbar";
+import Profile from "./component/Profile/Profile";
+import Dialogs from "./component/Dialogs/Dialogs";
+import {BrowserRouter, Route} from "react-router-dom";
+
 
 const App = () => {
-  return (
-    <div className="App">
-      <ul>
-        <li>css</li>
-      </ul>
-    </div>
-  );
-};
+    return (
+        <BrowserRouter>
+            <div className="app-wrapper">
+                <Header/>
+                <Navbar/>
+                <div className='app-wrapper-content'>
+                    <Route path="/profile" component={Profile}/>
+                    <Route path="/dialogs" component={Dialogs}/>
 
+                </div>
+
+            </div>
+        </BrowserRouter>
+    );
+};
 export default App;
