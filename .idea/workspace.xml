@@ -32,8 +32,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="lesson 20.1 go fixed">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/kotel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/kotel.xml" afterDir="false" />
+    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="lesson 21">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.module.css" afterDir="false" />
@@ -110,7 +109,8 @@
       <workItem from="1594354437141" duration="8697000" />
       <workItem from="1594779991444" duration="2430000" />
       <workItem from="1594785807217" duration="294000" />
-      <workItem from="1594786153338" duration="2606000" />
+      <workItem from="1594786153338" duration="2989000" />
+      <workItem from="1595063898837" duration="2359000" />
     </task>
     <task id="LOCAL-00001" summary="Import component">
       <created>1594118126630</created>
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594785539395</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson 21">
+      <created>1594788879483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594788879483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +155,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Import component" />
     <MESSAGE value="lesson 20.1 go fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 20.1 go fixed" />
+    <MESSAGE value="lesson 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 21" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594625250582">
@@ -167,30 +175,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594786203484" />
-    <state width="936" height="185" key="GridCell.Tab.0.bottom" timestamp="1594785546832">
+    <state width="936" height="186" key="GridCell.Tab.0.bottom" timestamp="1594789144980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594785546832" />
-    <state width="936" height="185" key="GridCell.Tab.0.center" timestamp="1594785546832">
+    <state width="936" height="186" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594789144980" />
+    <state width="936" height="186" key="GridCell.Tab.0.center" timestamp="1594789144980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594785546832" />
-    <state width="936" height="185" key="GridCell.Tab.0.left" timestamp="1594785546832">
+    <state width="936" height="186" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594789144980" />
+    <state width="936" height="186" key="GridCell.Tab.0.left" timestamp="1594789144980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594785546832" />
-    <state width="936" height="185" key="GridCell.Tab.0.right" timestamp="1594785546832">
+    <state width="936" height="186" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594789144980" />
+    <state width="936" height="186" key="GridCell.Tab.0.right" timestamp="1594789144980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594785546832" />
+    <state width="936" height="186" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594789144980" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1594786326310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594786326310" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594118138598">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594788889603">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594118138598" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594788889603" />
     <state x="1053" y="100" width="774" height="847" maximized="true" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594264526003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
