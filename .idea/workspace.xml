@@ -32,7 +32,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="lesson 22">
+    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="lesson 24">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_13_07_2020_13_31_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_13_07_2020_13_31__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_07_2020_13_26_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_07_2020_13_26__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPost.jsx" afterDir="false" />
@@ -113,7 +117,8 @@
       <workItem from="1594786153338" duration="2989000" />
       <workItem from="1595063898837" duration="6860000" />
       <workItem from="1595130917248" duration="190000" />
-      <workItem from="1595149946675" duration="4108000" />
+      <workItem from="1595149946675" duration="4267000" />
+      <workItem from="1595315806818" duration="2578000" />
     </task>
     <task id="LOCAL-00001" summary="Import component">
       <created>1594118126630</created>
@@ -143,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595066872428</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson 24">
+      <created>1595159111619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595159111619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +179,8 @@
     <MESSAGE value="lesson 20.1 go fixed" />
     <MESSAGE value="lesson 21" />
     <MESSAGE value="lesson 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 22" />
+    <MESSAGE value="lesson 24" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 24" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594625250582">
@@ -186,30 +199,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595075148999" />
-    <state width="936" height="186" key="GridCell.Tab.0.bottom" timestamp="1595073311586">
+    <state width="936" height="210" key="GridCell.Tab.0.bottom" timestamp="1595159138184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="186" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595073311586" />
-    <state width="936" height="186" key="GridCell.Tab.0.center" timestamp="1595073311586">
+    <state width="936" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
+    <state width="936" height="210" key="GridCell.Tab.0.center" timestamp="1595159138184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="186" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595073311586" />
-    <state width="936" height="186" key="GridCell.Tab.0.left" timestamp="1595073311586">
+    <state width="936" height="210" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
+    <state width="936" height="210" key="GridCell.Tab.0.left" timestamp="1595159138184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="186" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595073311586" />
-    <state width="936" height="186" key="GridCell.Tab.0.right" timestamp="1595073311586">
+    <state width="936" height="210" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
+    <state width="936" height="210" key="GridCell.Tab.0.right" timestamp="1595159138184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="186" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595073311586" />
+    <state width="936" height="210" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1594786326310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594786326310" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595066881638">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595159113622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595066881638" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595159113622" />
     <state x="1053" y="100" width="774" height="847" maximized="true" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594264526003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
