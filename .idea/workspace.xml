@@ -32,14 +32,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="lesson 24">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_13_07_2020_13_31_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_13_07_2020_13_31__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_07_2020_13_26_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_07_2020_13_26__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="lesson 25">
+      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/DialogItem/DialogItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/Message/Message.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Profile/MyPosts/MyPost.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +70,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/component/Profile/ProfileInfo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/component/Dialogs/DialogItem" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebExamples\ReactKabzda\src\component\Dialogs\DialogItem" />
+      <recent name="D:\WebExamples\ReactKabzda\src\component\Dialogs\Message" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WebExamples\ReactKabzda\src\component\Profile\ProfileInfo" />
       <recent name="D:\WebExamples\ReactKabzda\src\component\Profile" />
@@ -118,7 +119,10 @@
       <workItem from="1595063898837" duration="6860000" />
       <workItem from="1595130917248" duration="190000" />
       <workItem from="1595149946675" duration="4267000" />
-      <workItem from="1595315806818" duration="2578000" />
+      <workItem from="1595315806818" duration="4027000" />
+      <workItem from="1595821887289" duration="3065000" />
+      <workItem from="1596011124128" duration="643000" />
+      <workItem from="1596011849695" duration="1177000" />
     </task>
     <task id="LOCAL-00001" summary="Import component">
       <created>1594118126630</created>
@@ -155,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595159111619</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lesson 25">
+      <created>1595323027311</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595323027311</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +191,8 @@
     <MESSAGE value="lesson 21" />
     <MESSAGE value="lesson 22" />
     <MESSAGE value="lesson 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 24" />
+    <MESSAGE value="lesson 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 25" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594625250582">
@@ -199,30 +211,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595075148999" />
-    <state width="936" height="210" key="GridCell.Tab.0.bottom" timestamp="1595159138184">
+    <state width="936" height="208" key="GridCell.Tab.0.bottom" timestamp="1596011787215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
-    <state width="936" height="210" key="GridCell.Tab.0.center" timestamp="1595159138184">
+    <state width="936" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596011787215" />
+    <state width="936" height="208" key="GridCell.Tab.0.center" timestamp="1596011787215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="210" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
-    <state width="936" height="210" key="GridCell.Tab.0.left" timestamp="1595159138184">
+    <state width="936" height="208" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596011787215" />
+    <state width="936" height="208" key="GridCell.Tab.0.left" timestamp="1596011787215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="210" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
-    <state width="936" height="210" key="GridCell.Tab.0.right" timestamp="1595159138184">
+    <state width="936" height="208" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596011787215" />
+    <state width="936" height="208" key="GridCell.Tab.0.right" timestamp="1596011787215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="210" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
+    <state width="936" height="208" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596011787215" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1594786326310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594786326310" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595159113622">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595323041452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595159113622" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595323041452" />
     <state x="1053" y="100" width="774" height="847" maximized="true" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594264526003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
