@@ -32,16 +32,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="lesson 25">
-      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/DialogItem/DialogItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/Dialogs/Message/Message.jsx" afterDir="false" />
+    <list default="true" id="c20b171b-8d29-4c87-9e74-528a6773986c" name="Default Changelist" comment="lesson 20.1 go fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/Dialogs/DialogItem/DialogItem.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,9 +80,126 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
   <component name="ProjectId" id="1eM31nI1dnp6GI5zotymbe1zaVW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="Dialogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="Dialogs" type="462c0819:PsiDirectoryNode" />
+              <item name="DialogItem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="Dialogs" type="462c0819:PsiDirectoryNode" />
+              <item name="Message" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="Header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="Navbar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="Profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="Profile" type="462c0819:PsiDirectoryNode" />
+              <item name="MyPosts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="Profile" type="462c0819:PsiDirectoryNode" />
+              <item name="MyPosts" type="462c0819:PsiDirectoryNode" />
+              <item name="Post" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ReactKabzda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ReactKabzda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="Profile" type="462c0819:PsiDirectoryNode" />
+              <item name="ProfileInfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -70,23 +212,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/component/Dialogs/DialogItem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/component/Profile/ProfileInfo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WebExamples\ReactKabzda\src\component\Dialogs\DialogItem" />
-      <recent name="D:\WebExamples\ReactKabzda\src\component\Dialogs\Message" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WebExamples\ReactKabzda\src\component\Profile\ProfileInfo" />
       <recent name="D:\WebExamples\ReactKabzda\src\component\Profile" />
       <recent name="D:\WebExamples\ReactKabzda\src\component\Navbar" />
       <recent name="D:\WebExamples\ReactKabzda\src\component\Header" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
@@ -119,10 +269,7 @@
       <workItem from="1595063898837" duration="6860000" />
       <workItem from="1595130917248" duration="190000" />
       <workItem from="1595149946675" duration="4267000" />
-      <workItem from="1595315806818" duration="4027000" />
-      <workItem from="1595821887289" duration="3065000" />
-      <workItem from="1596011124128" duration="643000" />
-      <workItem from="1596011849695" duration="1177000" />
+      <workItem from="1595315806818" duration="2578000" />
     </task>
     <task id="LOCAL-00001" summary="Import component">
       <created>1594118126630</created>
@@ -159,15 +306,35 @@
       <option name="project" value="LOCAL" />
       <updated>1595159111619</updated>
     </task>
-    <task id="LOCAL-00006" summary="lesson 25">
-      <created>1595323027311</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1595323027311</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1911000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5140998" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32819384" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.48788548" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23017621" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
@@ -177,12 +344,40 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -191,8 +386,7 @@
     <MESSAGE value="lesson 21" />
     <MESSAGE value="lesson 22" />
     <MESSAGE value="lesson 24" />
-    <MESSAGE value="lesson 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 24" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594625250582">
@@ -211,30 +405,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1201" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595075148999" />
-    <state width="936" height="208" key="GridCell.Tab.0.bottom" timestamp="1596011787215">
+    <state width="936" height="210" key="GridCell.Tab.0.bottom" timestamp="1595159138184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596011787215" />
-    <state width="936" height="208" key="GridCell.Tab.0.center" timestamp="1596011787215">
+    <state width="936" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
+    <state width="936" height="210" key="GridCell.Tab.0.center" timestamp="1595159138184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="208" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596011787215" />
-    <state width="936" height="208" key="GridCell.Tab.0.left" timestamp="1596011787215">
+    <state width="936" height="210" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
+    <state width="936" height="210" key="GridCell.Tab.0.left" timestamp="1595159138184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="208" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596011787215" />
-    <state width="936" height="208" key="GridCell.Tab.0.right" timestamp="1596011787215">
+    <state width="936" height="210" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
+    <state width="936" height="210" key="GridCell.Tab.0.right" timestamp="1595159138184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="208" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596011787215" />
+    <state width="936" height="210" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595159138184" />
     <state x="922" y="165" key="SettingsEditor" timestamp="1594786326310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594786326310" />
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595323041452">
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595159113622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595323041452" />
+    <state x="1032" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595159113622" />
     <state x="1053" y="100" width="774" height="847" maximized="true" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1594264526003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -251,5 +445,72 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1198" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595150320016" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/component/Dialogs/DialogItem/DialogItem.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Profile/MyPosts/Post/Post.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Profile/MyPosts/MyPost.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Profile/ProfileInfo/ProfileInfo.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Dialogs/Dialogs.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Dialogs/Message/Message.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
